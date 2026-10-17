@@ -41,13 +41,13 @@ TeamBook is an internal employee directory application built with React, Vite, a
 *(To add your screenshots: save a screenshot of the `/employees` page as `screenshots/directory.png` and `/employees/1` as `screenshots/detail.png`.)*
 
 ## Links
-- **GitHub Repository:** [https://github.com/YOUR_GITHUB_USERNAME/ps7-teambook](https://github.com/YOUR_GITHUB_USERNAME/ps7-teambook)
+- **GitHub Repository:** [https://github.com/Harshitranjan07/ps7-teambook](https://github.com/Harshitranjan07/ps7-teambook)
 - **Live Deployment:** [https://ps7-teambook.vercel.app](https://ps7-teambook.vercel.app)
 
 ## Local Setup & Running Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/ps7-teambook.git
+   git clone https://github.com/Harshitranjan07/ps7-teambook.git
    cd ps7-teambook
    ```
 2. Install dependencies:
