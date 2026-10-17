@@ -38,8 +38,6 @@ TeamBook is an internal employee directory application built with React, Vite, a
 - **Employee Details Page:**
   ![Employee Details](screenshots/detail.png)
 
-*(To add your screenshots: save a screenshot of the `/employees` page as `screenshots/directory.png` and `/employees/1` as `screenshots/detail.png`.)*
-
 ## Links
 - **GitHub Repository:** [https://github.com/Harshitranjan07/ps7-teambook](https://github.com/Harshitranjan07/ps7-teambook)
 - **Live Deployment:** [https://ps7-teambook.vercel.app](https://ps7-teambook.vercel.app)
